@@ -1,8 +1,15 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "{DDA61239-4AA0-07C0-690C-7BBC4BF8EC1C}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "CatchFruits",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
